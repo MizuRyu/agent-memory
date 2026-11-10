@@ -73,3 +73,7 @@ uv run python -m pytest tests/ -v
 次の Zenn の記事を参考にしています。
 
 - [noprogllama さんの Zenn の記事](https://zenn.dev/noprogllama/articles/7c24b2c2410213)
+
+## ライセンス
+
+[MIT](LICENSE)
